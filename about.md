@@ -4,5 +4,5 @@ title: About Me
 permalink: /about/
 ---
 
-I'm a programmer at IoT company. 
+A programmer at IoT company. 
 
